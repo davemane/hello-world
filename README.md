@@ -1,3 +1,3 @@
 # hello-world
 This is my first repo.
-My name is David Evans and I am currently learning how to code and how things work in the tech industry.
+My name is Dave and this is awesome!
